@@ -1,10 +1,8 @@
 
 
 # Carlthegreatt
-Hello, my name is **Carl F. Blancaflor**, and I am currently a 2nd-year Computer Engineering student.  
-I have a strong interest in software development, data science and AI/Machine Learning. 
-
-I aspire to contribute to innovative solutions, collaborate on meaningful projects, and grow as a professional
+Hello, my name is **Carl F. Blancaflor**, and I am currently a 2nd-year Computer Engineering student. With strong interest in software development, data science and AI/Machine Learning. I aspire to contribute to innovative solutions, collaborate on 
+meaningful projects, and grow as a professional
 in the field of technology.  
 #
 
